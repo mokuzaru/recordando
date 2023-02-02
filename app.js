@@ -84,3 +84,10 @@ console.log(personaje.test());
 console.log(personaje.habilidades[2]);
 
 
+function con(){
+    if(personaje.edad < 41){
+        personaje.edad ++;
+    }
+    console.log(personaje.edad);
+}
+con();
