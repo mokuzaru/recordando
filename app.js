@@ -1,5 +1,9 @@
 console.log("conectado");
 
+
+//var respuesta = prompt("escribe tu nombre!");
+alert("estas entrando a mi web. seguro?")
+//console.log(respuesta);
 /*
 
     var let const
